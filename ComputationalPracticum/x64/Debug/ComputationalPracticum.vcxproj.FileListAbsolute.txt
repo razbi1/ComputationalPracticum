@@ -1,0 +1,4 @@
+C:\Users\razbe\OneDrive\Рабочий стол\дифуры\ComputationalPracticum\ComputationalPracticum\x64\Debug\ComputationalPracticum.vcxproj.AssemblyReference.cache
+C:\Users\razbe\OneDrive\Рабочий стол\дифуры\ComputationalPracticum\ComputationalPracticum\x64\Debug\ComputationalPracticum.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\razbe\OneDrive\Рабочий стол\дифуры\ComputationalPracticum\ComputationalPracticum\x64\Debug\ComputationalPracticum.vcxproj.GenerateResource.cache
+C:\Users\razbe\OneDrive\Рабочий стол\дифуры\ComputationalPracticum\ComputationalPracticum\x64\Debug\ComputationalPracticum.MyForm1.resources
